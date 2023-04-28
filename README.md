@@ -6,5 +6,5 @@ The project can be viewed live [HERE](https://danjecu.github.io/interactive-rati
 
 ## Screenshots
 
-[ ](https://github.com/danJecu/interactive-rating-component/blob/main/design/mobile-design.jpg)
-[ ](https://github.com/danJecu/interactive-rating-component/blob/main/design/mobile-thank-you-state.jpg)
+![rating](https://github.com/danJecu/interactive-rating-component/blob/main/design/mobile-design.jpg)
+![thankyou](https://github.com/danJecu/interactive-rating-component/blob/main/design/mobile-thank-you-state.jpg)
